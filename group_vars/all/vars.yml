@@ -1,15 +1,14 @@
 ---
-username: notthebee
+username: callumleach
 
 packages:
-  - fish
   - vim
   - htop
   - neofetch
   - tmux
   - speedtest-cli
 
-shell: /usr/bin/fish
+shell: /usr/bin/bash
 
 pip_install_packages:
   - name: docker
